@@ -6,7 +6,7 @@ using namespace std; //Definição de string para todo o arquivo.
 class Animal {
   public:
     void animalSound() {
-    cout << "Qee som os animais fazem? \n" ;
+    cout << "Que som os animais fazem? \n" ;
   }
 };
 
