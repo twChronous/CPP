@@ -9,7 +9,7 @@ int main() {
   ofstream Readme("README.md");
 
   // Define o que será escrito no arquivo.
-  string Words0 = "# C++ ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) \n Este é um repositorio, com alguns conceitos basicos de CPP(C++)";
+  string Words0 = "# C++ ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) \n Este é um repositorio, com alguns conceitos basicos de CPP(C++)";
   string Words1 = "com alguns codigos simples e funcionais que demonstram o funcionamento da ";
   string Words2 = "linguagem \n ## Utilização \n primeiro compile o arquivo desejado e em seguida";
   string Words3 =" execulte-o no terminal como por exemplo \n ```BASH ./inheritance``` \n ## License ";
